@@ -1,0 +1,25 @@
+package demo1;
+
+public class Phone {
+
+    public Phone(int num) {
+        System.out.println("Phone....");
+    }
+
+    public Phone(){
+        System.out.println("ccc");
+    }
+
+    public void call(){
+        System.out.println("打电话");
+    }
+
+    public void sendEmail(){
+        System.out.println("发短信");
+    }
+
+    public void showCalled(){
+        System.out.println("显示来电好吗");
+    }
+
+}
