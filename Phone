@@ -21,5 +21,7 @@ public class Phone {
     public void showCalled(){
         System.out.println("显示来电好吗");
     }
+    
+    asdawdawd awdgdhfgnj 
 
 }
